@@ -1,0 +1,399 @@
+SiteID,SiteName,Latitude,Longitude,Country
+403,Yukon-Kuskokwim Delta,62,-166,USA_AK
+398,Cinder Lagoon,57.2,-158.1,USA_AK
+499,Port Heiden,56.75,-159,USA_AK
+400,Port Moller/Nelson Lagoon/Mud Bay,55.5,-161,USA_AK
+401,Pribilof Islands,57.4,-170.25,USA_AK
+402,Stebbins-St Michael Wetlands,63.2,-162.4,USA_AK
+335,Daursky Nature Reserve,50,115.67,RUSSIA
+343,Moroshechnaya River Estuary,56.83,156.17,RUSSIA
+341,Lososei Bay,46.73,142.68,RUSSIA
+349,Schastiya Bay,53.31,141.16,RUSSIA
+337,Kharchinskoe Lake,56.53,160.87,RUSSIA
+352,Tugurskiy Bay,53.75,136.78,RUSSIA
+340,Lake Evoron,51.75,136.17,RUSSIA
+346,Penzhina River mouth,62.5,165.18,RUSSIA
+330,Babushkina Bay,59.19,153.57,RUSSIA
+331,Baikal Bay,53.57,142.48,RUSSIA
+350,Skobeleva Bay,60.4,166.33,RUSSIA
+332,Bolshoe Lake and Bolshaya River Mouth,52.53,156.28,RUSSIA
+336,Khairyuzova Bay,57.08,156.68,RUSSIA
+344,Nabilsky Bay,51.72,143.32,RUSSIA
+351,Terpeniya Bay,48.65,144.73,RUSSIA
+333,Chaivo Bay,52.35,143.1,RUSSIA
+334,Dagiy Bay,52.07,143.12,RUSSIA
+338,Konstantina Bay,54.03,137.28,RUSSIA
+339,Kronotsky Nature Reserve,54.57,161.17,RUSSIA
+342,Malkachan River mouth,59.87,154.22,RUSSIA
+345,Opala River,51.92,156.48,RUSSIA
+347,Pomr Bay,53.67,142.63,RUSSIA
+348,Sakhalinsky Bay,53.92,142.72,RUSSIA
+353,Ulbanskiy Bay,53.57,137.22,RUSSIA
+354,Vakhil River Mouth,53.24,159.58,RUSSIA
+191,Yancheng National Nature Reserve,33.67,120.5,CHINA
+161,Huang He National Nature Reserve,38,118.83,CHINA
+179,Shi Jiu Tuo/Daqing He,39.13,118.82,CHINA
+181,Shuangtaizihekou National Nature Reserve,40.84,121.75,CHINA
+154,Dongsha Islands,33.12,121.35,CHINA
+175,North-west Bo Hai Wan,38.92,117.83,CHINA
+190,Yalu Jiang National Nature Reserve,39.82,124.11,CHINA
+148,Chongming Dongtan National Nature Reserve,31.5,121.75,CHINA
+170,Mai Po Marshes,22.5,114,CHINA
+182,South Bo Hai Wan,38.13,118.2,CHINA
+173,North Bo Hai Wan,39.08,118.43,CHINA
+167,Linghekou,40.87,121.58,CHINA
+176,Poyang Hu National Nature Reserve,28.9,116.27,CHINA
+155,East Dongting Hu National Nature Reserve,29.25,112.92,CHINA
+157,Gaoyou Hu/Shabo Hu,32.58,119.33,CHINA
+163,Jiu Duan Sha National Nature Reserve,31.27,121.85,CHINA
+186,Ta-Too-Hsi,24.13,120.41,CHINA
+187,Tseng-Wen-Hsi,23.08,120.08,CHINA
+160,Han-Pao,24.05,120.37,CHINA
+162,Jiazhouwan,36.18,120.17,CHINA
+165,Laizhouwan,37.17,119.25,CHINA
+166,Lan-Yang-Hsi (River),24.72,121.82,CHINA
+184,South-west Bo Hai Wan,38.47,117.67,CHINA
+412,Zhalong National Nature Reserve,46.7,123.7,CHINA
+142,Anping,22.97,120.17,CHINA
+143,Baidang Hu,30.78,117.38,CHINA
+149,Cho-Shui-Hsi S.,23.83,120.22,CHINA
+150,Chuan-Hsing,24.2,120.45,CHINA
+151,Dalai Hu National Nature Reserve,48.9,117.4,CHINA
+156,Futien Nature Reserves,22.53,114.05,CHINA
+158,Haizhouwan (Taibei Saltworks),34.71,119.24,CHINA
+164,Ku-Liao,24.8,120.92,CHINA
+144,Baoshan Steel Plant Reservoirs,31.43,121.43,CHINA
+145,Bo Hu,30.17,116.45,CHINA
+146,Changhua Coastal Industrial Park,24.07,120.38,CHINA
+147,Chen Hu,30.33,113.85,CHINA
+152,Daqing He,39.17,118.92,CHINA
+153,Dianchi,24.83,102.72,CHINA
+159,Hannan Lake,30.33,113.83,CHINA
+169,Longgan Hu,29.98,115.8,CHINA
+171,Miao Gang,30.91,121.88,CHINA
+172,Nanjishan,28.83,116.28,CHINA
+174,Northern Jiangsu Coastline,35.6,119.7,CHINA
+177,Sanmen Wan,29.17,121.58,CHINA
+178,Shengjin Hu,30.35,117.08,CHINA
+180,Shijiu Hu,31.38,118.78,CHINA
+183,South Donting Hu,28.97,112.53,CHINA
+185,Szu-Tsao Wildlife Reserve,23.02,120.13,CHINA
+188,Xinmiao Hu,29.37,116.17,CHINA
+189,Xuwei saltworks,34.5,119.72,CHINA
+192,Yung-An,22.83,120.23,CHINA
+327,Mundok Migratory Bird Wetland Reserve,39.44,125.34,NORTH KOREA
+361,Dongjin Estuary,35.78,126.75,SOUTH KOREA
+369,Mankyung Estuary,35.9,126.75,SOUTH KOREA
+373,Namyang Bay,37.14,126.77,SOUTH KOREA
+368,Kum Estuary,36,126.67,SOUTH KOREA
+379,Yong Jong Island,37.52,126.53,SOUTH KOREA
+357,Asan Bay,36.95,126.82,SOUTH KOREA
+366,Kanghwa Island,37.58,126.5,SOUTH KOREA
+371,Nakdong Estuary,35.13,128.92,SOUTH KOREA
+364,Han River,37.69,126.68,SOUTH KOREA
+377,Suncheon Bay,34.83,127.5,SOUTH KOREA
+356,Aphae Island,34.83,126.33,SOUTH KOREA
+362,Haenam Hwangsan,34.42,126.5,SOUTH KOREA
+375,Seosan,36.77,126.45,SOUTH KOREA
+358,Cheonsu Bay,36.49,126.44,SOUTH KOREA
+360,Daebu Island,37.25,126.48,SOUTH KOREA
+363,Hampyong Bay,35.12,126.42,SOUTH KOREA
+370,Meian Gun Tidal Flat,35.08,126.33,SOUTH KOREA
+376,Song Do Tidal Flat,37.42,126.65,SOUTH KOREA
+367,Koch'ang-gun,35.42,126.58,SOUTH KOREA
+372,Namhae,34.83,127.83,SOUTH KOREA
+359,Chido Up Muan,35.05,126.2,SOUTH KOREA
+365,Hungwan River,36.1,127,SOUTH KOREA
+374,Paeksu Tidal Flat,35.2,126.43,SOUTH KOREA
+378,Wolgwang,35.73,128.17,SOUTH KOREA
+225,Isahaya Higata,32.83,130.08,JAPAN
+270,Shio-kawa Higata,34.68,137.3,JAPAN
+213,Fujimae Higata,35.08,136.83,JAPAN
+216,Fuuren-ko (Onnetou ohashi),43.29,145.36,JAPAN
+286,Wajiro Higata,33.68,130.42,JAPAN
+289,Yatsu Higata,35.68,140.03,JAPAN
+205,Arao Kaigan,33.03,130.47,JAPAN
+211,Daijugarami,33.17,130.27,JAPAN
+229,Kamisu-Chou Takahama,35.87,140.63,JAPAN
+238,Komuke-ko,44.27,143.48,JAPAN
+271,"Shiraho, Miyara-wan",24.35,124.21,JAPAN
+273,Sone Higata,33.82,130.97,JAPAN
+275,"Takamatsu, Kahoku Kaigan",36.75,136.7,JAPAN
+285,Usa Kaigan,33.57,131.43,JAPAN
+207,Awase Higata,26.3,127.82,JAPAN
+215,Futtsu,35.25,139.86,JAPAN
+231,Kasai Kaihinkouen,35.62,139.87,JAPAN
+240,Kuma-gawa Kakou,32.47,130.57,JAPAN
+252,Nakatsu Kaigan,33.58,131.25,JAPAN
+266,"Sanbanze, Tokyo Bay",35.67,139.98,JAPAN
+272,Shira-kawa Kakou,32.78,130.6,JAPAN
+278,"Tochigi-ken Nanbu, Suiden-chitai",36.28,139.8,JAPAN
+282,Tyuuou-bouhatei Uchi-Sotogawa Umetatechi,35.58,139.82,JAPAN
+291,Yonaha-wan,24.75,125.27,JAPAN
+206,"Atago-gawa, Kushida-gawa",34.6,136.57,JAPAN
+208,Banzu,35.42,139.92,JAPAN
+219,Hikata Hachimangoku,36.75,140.68,JAPAN
+221,Iioka Kaigan,35.7,140.72,JAPAN
+222,Ikawazu,34.62,137.13,JAPAN
+223,Inba-numa,35.78,140.32,JAPAN
+227,Kahokugata,36.67,136.68,JAPAN
+230,Kamo-gawa Kakou,33.92,133.17,JAPAN
+232,Kashima Shingomori,33.12,130.1,JAPAN
+234,"Kasumigaura Nangan, Sakuragawa-mura",35.95,140.4,JAPAN
+235,Kikuchi-gawa Kakou,32.88,130.53,JAPAN
+242,Makuharinohama,35.65,140.05,JAPAN
+247,Morigasakinohana,35.56,139.77,JAPAN
+248,Moriyamashi-kogan,35.13,135.92,JAPAN
+254,Naruto-machi Suiden,35.34,140.28,JAPAN
+256,"Notsuke-zaki, Odaitou",43.58,145.3,JAPAN
+257,Obitsu-gawa Kakou,35.33,139.92,JAPAN
+260,Onaga Higata,26.15,127.67,JAPAN
+263,"Osaka, Nankou Yachouen",34.63,135.47,JAPAN
+279,Tone-gawa Kakou,35.75,140.83,JAPAN
+287,Yahagi-gawa Kakou,34.82,136.98,JAPAN
+290,Yodaura Suiden,35.92,140.53,JAPAN
+203,Akashi-Iwayakouro,34.62,135.02,JAPAN
+204,"Anou-gawa Kakou, Shitomo-gawa Kakou",34.73,136.53,JAPAN
+209,Chidorihama Kiya-gawa Kakou,34.53,133.73,JAPAN
+210,Chiri-hama,36.88,136.72,JAPAN
+212,Daimyoujin-gawa Kakou,33.95,133.08,JAPAN
+214,Fukiagehama Kaigan,31.41,130.26,JAPAN
+217,Hachirougata-shiokuchi,40,140,JAPAN
+218,Hayatsue-gawa Kakou,33.15,130.33,JAPAN
+220,Ichinomiya-gawa Kakou,35.39,140.39,JAPAN
+224,Inbanuma-Cyuuouhaisuiro,35.75,140.25,JAPAN
+226,Izumi Kantaku,32.08,130.37,JAPAN
+228,Kakinoki-cho,35.83,140.78,JAPAN
+233,Kashimanada,36,140.66,JAPAN
+236,Kiritappu Shitsugen,43.16,145.18,JAPAN
+237,Komaiko Kaigan,36.47,136.47,JAPAN
+239,Kujukuri Hama,35.79,140.57,JAPAN
+241,Kumedaike,34.45,135.42,JAPAN
+243,Manko,26.18,127.68,JAPAN
+244,Matsugishi-higata,35.73,140.8,JAPAN
+245,Mikumo-cho Kaigan Kouhaichi,34.63,136.55,JAPAN
+246,"Miyagawakakou, Sotoshirotagawakakou  ",34.5,136.72,JAPAN
+249,Mukawa Kakou  ,42.57,141.93,JAPAN
+250,"Nabaki-gawa, Hori-kawa  ",35.43,140.4,JAPAN
+251,Nagasaki Kaigan  ,35.7,140.8,JAPAN
+253,Narashino-akanehama   ,35.65,140.02,JAPAN
+255,Nisikaminomiya-machi   ,36.32,139.15,JAPAN
+258,Okukubi-gawa Kakou  ,26.43,127.95,JAPAN
+259,Omaezaki-kaigan   ,34.6,138.23,JAPAN
+261,Ookubo Noukouchi  ,35.99,139.03,JAPAN
+262,"Oono-gawa, Suna-gawa Kakou ",32.62,130.65,JAPAN
+264,Rokkaku-gawa Kakou  ,33.2,130.22,JAPAN
+265,Saigawa-karyuu   ,36.6,136.58,JAPAN
+267,Saroma-ko   ,44.13,143.83,JAPAN
+268,Shigenobu-gawa Kakou  ,33.72,132.7,JAPAN
+269,Shimofusa-machi Taka  ,35.9,140.38,JAPAN
+274,"Suzuka-gawa Kakou, Suzuka-hasen Kakou",34.92,136.65,JAPAN
+276,Teganuma   ,35.85,140.08,JAPAN
+277,Tennou Kaigan  ,39.9,139.96,JAPAN
+280,Toukyou-kou Chobokujou  ,35.62,139.84,JAPAN
+281,"Toukyou-kou, Yatyouen Shuuhen ",35.57,139.77,JAPAN
+283,Uchiura Wan  ,35.07,138.84,JAPAN
+284,Umeda-gawa Kakou  ,34.72,137.35,JAPAN
+288,Yahagihuru-kawa Kakou  ,34.8,137.2,JAPAN
+393,Manila Bay,14.5,120.75,PHILIPPINES
+394,Olango Island,10.23,124.03,PHILIPPINES
+389,Arevalo-Muanduriao,10.7,122.52,PHILIPPINES
+390,Buguey,18.28,121.83,PHILIPPINES
+391,Cebu-Mactan,10.33,123.98,PHILIPPINES
+392,Davao River Mouth,7.03,125.6,PHILIPPINES
+395,Ormoc Intertidal Flat,11,124.57,PHILIPPINES
+396,Talon-Talon Wetland,6.92,122.12,PHILIPPINES
+406,Day and Ninh Co Estuary,19.97,106.12,VIETNAM
+407,Hoa Trinh,10.2,106.6,VIETNAM
+409,Xuan Thuy Reserve,20.35,106.52,VIETNAM
+405,Dat Mui,8.62,104.73,VIETNAM
+404,Cat-Tien NP,11.35,107,VIETNAM
+408,Tien Lang District,20.67,106.67,VIETNAM
+140,Koh Kong (Kaoh Kapik),11.5,103,CAMBODIA
+381,Inner Gulf of Thailand,13.51,100.53,THAILAND
+387,Pattani Bay,6.92,101.3,THAILAND
+382,Kato Sam Roi Yot NP,12.33,99.98,THAILAND
+385,Nong Han Kumphawapi,17.17,103.03,THAILAND
+380,Nong Lahan,15.62,101.88,THAILAND
+383,Huai Chorakhe Mak Non-Hunting Area,14.9,103.03,THAILAND
+384,Ko Libong,7.27,99.4,THAILAND
+386,Krabi Bay,8.03,98.92,THAILAND
+388,Thale Noi Non-Hunting Area,7.88,100.17,THAILAND
+307,Irrawaddy Delta,16.12,94.74,MYANMAR
+312,Moyingyi,17.5,96.58,MYANMAR
+308,Kyetmauktaung Dam,20.8,95.25,MYANMAR
+310,Letkok Kon,16.33,96.17,MYANMAR
+311,Minhla-Nyaung Lake,20.83,96.03,MYANMAR
+306,Inle Lake,20.17,97.03,MYANMAR
+133,Maulavir Char,22.38,91.02,BANGLADESH
+127,Char Piya,22.67,91,BANGLADESH
+130,Hakaluki Haor,24.67,92.08,BANGLADESH
+134,"Nijum Dweep, Char Osman",22.12,91.05,BANGLADESH
+135,Noakhali,22.33,91.17,BANGLADESH
+125,Banuar Haor,25.13,91.12,BANGLADESH
+126,Char Bhata,22.83,91.25,BANGLADESH
+128,Charan Dweep,24.35,90.02,BANGLADESH
+129,Ghatibhanga,21.52,91.9,BANGLADESH
+131,Hatiya Island,22.58,91.17,BANGLADESH
+132,Kawadighi Haor,24.58,91.78,BANGLADESH
+136,Shonar Char,22.3,90.92,BANGLADESH
+302,Pulau Bruit,2.57,111.35,MALAYSIA
+294,Kapar Power Station,3.13,101.33,MALAYSIA
+303,Pulau Tengah (Klang Islands),2.97,101.31,MALAYSIA
+294,Kuala Kedah to Kuala Sungai,6.25,100.22,MALAYSIA
+292,Batu Maung,5.37,100.3,MALAYSIA
+295,Kuala Gula,4.93,100.47,MALAYSIA
+298,Kuala Samarahan to Kuala Sadong,1.6,110.62,MALAYSIA
+301,"Papar, Sabah",5.7,115.93,MALAYSIA
+297,Kuala Kelumpang,4.87,100.5,MALAYSIA
+299,Pantai Rasa Sayang,3.47,101.13,MALAYSIA
+300,Pantai Tanjong Karang,3.42,101.18,MALAYSIA
+305,Tanjong Bidadari,5.92,118.08,MALAYSIA
+355,Sungei Buloh Wetland Reserve,1.45,103.72,SINGAPORE
+137,Brunei Bay,4.5,114.5,BRUNEI
+138,Wasan Rice Scheme,4.75,114.83,BRUNEI
+197,Banyuasin Delta,-3,105,INDONESIA
+188,Bagan Percut - Sungai Ular,3.72,98.78,INDONESIA
+199,Kuala Tungal to Tanjung Djabung coast,-1,103.75,INDONESIA
+202,Wasur National Park,-8.75,140.58,INDONESIA
+198,Benoa Bay,-8.75,115.2,INDONESIA
+196,Bali,-8.25,115,INDONESIA
+200,Kupang Bay,-10.06,123.75,INDONESIA
+210,Ujung Pangkah,-6.88,112.6,INDONESIA
+397,“Timor Leste”,-10,120.5,TIMOR LESTE
+328,Kikori Delta,-7.65,144.5,PAPUA NEW GUINEA
+329,Tonda Wildlife Management Area,-9,141.33,PAPUA NEW GUINEA
+410,Lake Dakataua,-5.03,150.08,PAPUA NEW GUINEA
+102,Roebuck Bay,-18.07,122.33,AUSTRALIA
+38,Eighty Mile Beach,-19.23,121.42,AUSTRALIA
+107,SE Gulf of Carpentaria,-17.47,140.76,AUSTRALIA
+28,Chambers Bay,-12.26,131.63,AUSTRALIA
+84,Moreton Bay,-27.25,153.33,AUSTRALIA
+46,Great Sandy Strait,-25.67,152.93,AUSTRALIA
+30,Corner Inlet,-38.73,146.22,AUSTRALIA
+36,Eastern Port Phillip Bay,-38,144.6,AUSTRALIA
+49,Hunter Estuary,-32.84,151.78,AUSTRALIA
+83,Milingimbi coast,-12,135,AUSTRALIA
+96,Port McArthur,-15.78,136.67,AUSTRALIA
+110,Shoalwater Bay and Broad Sound,-22.12,150.04,AUSTRALIA
+6,Ashmore Reef,-12.23,123.08,AUSTRALIA
+27,Ceduna Bays,-32.28,133.68,AUSTRALIA
+42,Fog Bay,-12.87,130.32,AUSTRALIA
+52,Kakadu National Park,-12.28,132.46,AUSTRALIA
+94,Port Hedland Saltworks,-20.24,118.94,AUSTRALIA
+108,Shallow Inlet/Sandy Point,-38.8,146.15,AUSTRALIA
+120,Western Port Bay,-38.42,145.33,AUSTRALIA
+15,Boullanger Bay/Robbins Passage,-40.75,144.87,AUSTRALIA
+112,The Coorong & Coorong National Park,-35.74,139.22,AUSTRALIA
+3,Anderson Inlet,-38.65,145.79,AUSTRALIA
+8,Barrow Island,-20.75,115.39,AUSTRALIA
+53,Kangaroo Island,-35.71,137.62,AUSTRALIA
+64,Lake George,-37.4,140,AUSTRALIA
+70,Lake MacLeod,-24.05,113.59,AUSTRALIA
+89,Ocean Grove to Barwon Heads,-38.27,144.51,AUSTRALIA
+91,Peel-Harvey system,-32.58,115.73,AUSTRALIA
+82,Pioneer River – McEwan’s Beach,-21.2,149.2,AUSTRALIA
+104,Roper River area,-14.72,135.42,AUSTRALIA
+2,Albany Harbours,-35.05,117.88,AUSTRALIA
+14,Boucat Bay,-12.02,134.5,AUSTRALIA
+17,Buckingham Bay,-12.21,135.68,AUSTRALIA
+19,Bynoe Harbour,-12.67,130.55,AUSTRALIA
+23,Cape Bowling Green,-19.3,147.38,AUSTRALIA
+31,Dampier Saltworks,-20.73,116.73,AUSTRALIA
+45,Gippsland Lakes,-38,147.62,AUSTRALIA
+56,Lacepede Islands,-16.85,122.1,AUSTRALIA
+60,Lake Cooloongup,-32.29,115.79,AUSTRALIA
+66,Lake Gregory,-20.22,127.47,AUSTRALIA
+69,Lake Machattie,-24.8,139.88,AUSTRALIA
+72,Lake Murdeduke,-38.18,143.9,AUSTRALIA
+75,Lake Sylvester,-18.83,135.67,AUSTRALIA
+77,Lake Yamma Yamma,-26.33,141.42,AUSTRALIA
+79,"Logan Lagoon, Flinders Island",-40.17,148.28,AUSTRALIA
+90,"Parry floodplain, Wyndham",-15.55,128.25,AUSTRALIA
+47,Penrice Saltfields,-34.7,138.5,AUSTRALIA
+97,Port Pirie coast,-33.26,137.8,AUSTRALIA
+99,Port Wakefield - Webb Beach,-34.33,138.21,AUSTRALIA
+101,Rivoli Bay,-37.55,140.1,AUSTRALIA
+103,Roebuck Plains,-18,122.5,AUSTRALIA
+118,Vasse Wonnerup Estuary,-33.63,115.42,AUSTRALIA
+1,Adelaide River Floodplain,-12.25,131.27,AUSTRALIA
+4,Anna Plains,-19.21,121.5,AUSTRALIA
+5,"Anson Bay, south",-13.52,129.97,AUSTRALIA
+7,Astrelba Downs National Park,-24.04,140.56,AUSTRALIA
+9,Beachport National Park,-37.45,139.97,AUSTRALIA
+11,Blanche Point,-41.28,148.33,AUSTRALIA
+12,Blue Mud Bay,-13.31,136.16,AUSTRALIA
+16,Brown Bay (Green Point),-38.05,140.87,AUSTRALIA
+18,Burdekin River delta,-19.67,147.55,AUSTRALIA
+20,Cairns Foreshore,-16.92,145.77,AUSTRALIA
+21,Camballin,-17.95,124.35,AUSTRALIA
+22,Canunda National Park,-37.75,140.3,AUSTRALIA
+24,"Carpenter Rocks, Pelican Point",-37.93,140.42,AUSTRALIA
+26,Cedar Hill and Hexham Swamp,-32.87,151.62,AUSTRALIA
+29,Coffin Bay National Park,-34.52,135.3,AUSTRALIA
+32,Derby Sewage Ponds,-17.33,123.65,AUSTRALIA
+33,Derwent Estuary - Pittwater,-42.83,147.33,AUSTRALIA
+411,"Diamantina floodplain, Birdsville-Betoota",-25.7,140.27,AUSTRALIA
+34,Discovery Bay Conservation Park,-38.19,141.27,AUSTRALIA
+37,Edithvale-Seaford,-38.09,145.14,AUSTRALIA
+39,Elcho Island,-11.84,135.88,AUSTRALIA
+40,Esperance Bay,-33.87,121.9,AUSTRALIA
+41,Fivebough Swamp,-34.53,146.43,AUSTRALIA
+43,Forrestdale Lake Nature Reserve,-32.16,115.94,AUSTRALIA
+44,Garden Island,-32.21,115.68,AUSTRALIA
+50,Islands off False Orford Ness,-11.3,143,AUSTRALIA
+51,Joseph Bonaparte Bay (Turtle Pt),-14.85,129.25,AUSTRALIA
+54,King Island,-39.87,143.92,AUSTRALIA
+12,Kununurra irrigation area,-15.72,128.73,AUSTRALIA
+57,Lake Bathurst,-35.05,149.69,AUSTRALIA
+58,Lake Buloke,-36.27,142.97,AUSTRALIA
+59,Lake Cawndilla,-32.48,142.23,AUSTRALIA
+62,Lake Eyre,-28.5,137.25,AUSTRALIA
+63,Lake Finniss,-12.36,131.48,AUSTRALIA
+65,Lake Gol Gol,-34.13,142.23,AUSTRALIA
+67,Lake Hawdon south,-37.22,139.94,AUSTRALIA
+68,Lake Hindmarsh,-36.05,141.91,AUSTRALIA
+71,Lake Martin,-38.07,143.57,AUSTRALIA
+73,Lake Numalla,-28.73,144.32,AUSTRALIA
+74,Lake Preston,-32.97,115.69,AUSTRALIA
+76,"Lake Tutchewop, Kerang",-35.51,143.75,AUSTRALIA
+78,Limmen River mouth,-15.11,135.71,AUSTRALIA
+80,Lough Calvert,-38.17,143.69,AUSTRALIA
+81,"Low Island, Arnhem Bay",-12.32,136.17,AUSTRALIA
+85,Nericon Swamp,-34.22,146.04,AUSTRALIA
+86,Notch Point,-21.73,149.47,AUSTRALIA
+87,Nungbalgarri Creek ,-11.93,134.07,AUSTRALIA
+88,"Ocean Beach, Strahan",-42.13,145.27,AUSTRALIA
+92,Pelican Island and nearby islands,-13.92,143.83,AUSTRALIA
+93,Port Fairy to Warrnambool coast,-38.38,142.25,AUSTRALIA
+95,Port MacDonnell coast,-38.05,140.7,AUSTRALIA
+98,Port Stephens,-32.7,152.1,AUSTRALIA
+13,Price Saltfields/Clinton Cons. Park,-34.22,138.03,AUSTRALIA
+100,Ringarooma Bay/Cape Portland,-40.86,147.88,AUSTRALIA
+106,Rottnest Island,-32,115.52,AUSTRALIA
+109,Shoal Bay: Tree Pt to Lee Pt (Hope Inlet),-12.33,131,AUSTRALIA
+111,"Swan River Estuary, Perth",-32.02,115.81,AUSTRALIA
+113,Thomsons Lake Nature Reserve,-32.15,115.83,AUSTRALIA
+114,Torry Plains Station,-34.5,144.07,AUSTRALIA
+115,Tuckerbil Swamp,-34.49,146.36,AUSTRALIA
+116,Tuggerah lakes,-33.28,151.51,AUSTRALIA
+58,Tullakool Evaporation Ponds,-35.37,144.18,AUSTRALIA
+121,Wilson Inlet,-35,117.42,AUSTRALIA
+62,Yantabulla Swamp,-29.2,144.85,AUSTRALIA
+63,Yantara Lake,-29.92,142.28,AUSTRALIA
+65,"Yokinup Bay, Cape Arid National Park",-33.87,123.09,AUSTRALIA
+25,Castlereagh Bay,-12.166667,135,AUSTRALIA
+313,Farewell Spit,-40.5,172.83,NEW ZEALAND
+317,Kaipara Harbour,-36.42,174.25,NEW ZEALAND
+320,Manukau Harbour,-36.97,174.83,NEW ZEALAND
+323,Parengarenga Harbour,-34.52,172.96,NEW ZEALAND
+324,Rangaunu Harbour,-34.5,173.17,NEW ZEALAND
+325,Tauranga Harbour,-37.72,176.15,NEW ZEALAND
+326,Whangarei Harbour,-35.72,174.32,NEW ZEALAND
+314,Firth of Thames,-37.15,175.55,NEW ZEALAND
+318,Kawhia Harbour,-38.07,174.82,NEW ZEALAND
+322,Ohope/Ohiwa Harbour,-37.97,177.03,NEW ZEALAND
+315,Houhora Harbour,-34.83,173.17,NEW ZEALAND
+316,Invercargill,-46.42,168.37,NEW ZEALAND
+319,Lake Ellesmere,-43.83,172.67,NEW ZEALAND
+321,Motueka Estuary,-41.12,173,NEW ZEALAND

@@ -70,9 +70,14 @@ This step is also an opportunity to review Tak's network models for each species
 	
 The 'format_weekly_data.R' script is used to assign the count data to the regional nodes defined in 'plotIBAs.R'. The script re-maps the IBAs and clips the
 eBird dataset to assign count data to locations and regions.
-After defining the regions, we clip the eBird count data to the regional extent. We also clip to only include recent data (I chose since 1980, but we
-can decide together the best start date to choose). We remove all locations where the birds have never been sighted (e.g. zero counts at sites away from the coast which are likely to be outside the
-species range, e.g. western Chinese sites are unlikely to be used by shorebirds).
+In this script I did the following:
+1)	Remove all records that didn’t explicitly record a count for the species of interest (i.e. remove presence data with no count). 
+2)	Remove all old data (data older than 1980 is removed)
+3)	Remove all missing location data
+4)	Remove all data recorded from sites where the species has never been sighted. This step is to help to get good zero count data from within the actual species range 
+5)	Assign each datapoint to a bounding box polygon roughly corresponding to Tak’s expert-elicited network. I had to define the coordinates of this polygon manually;
+ to do so I used the Important Bird Areas from Bamford et al to roughly draw polygons around key regions for the species. Not all observations are included in these areas. We might need to re-draw these boundaries but this is a starting point.
+
 We can also pull out some statistics, such as how many uncounted birds aren't picked up by our classification into regions.
 We then extract and plot the following data sets:
 1) a total count for the region in each week;
